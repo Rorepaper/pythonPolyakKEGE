@@ -9,6 +9,7 @@ with open("tasks.txt", "r") as f:
 for task in tasks:
     a = load(StringIO(get(f"https://kompege.ru/api/v1/task/{task}").text))
     numb = str(a["number"])
+    ans = "\n".join(str(a["key"]).split('\\n'))
 
     if numb not in listdir():
         mkdir(numb)
@@ -18,8 +19,8 @@ for task in tasks:
         for i in ff:
             ur, nam = i["url"], i["name"]
             get_response = get(f"https://kompege.ru{ur}", stream=True)
-            mknod(f"{numb}/{nam}")
-            with open(f"{numb}/{nam}", 'wb') as f:
+            mknod(f"{numb}/{task}{nam.split('.')[-1]}")
+            with open(f"{numb}/{task}{nam.split('.')[-1]}", 'wb') as f:
                 for chunk in get_response.iter_content(chunk_size=1024):
                     if chunk:
                         f.write(chunk)
@@ -27,5 +28,5 @@ for task in tasks:
     mknod(f"{numb}/{task}.py")
 
     with open("README.md", "w", encoding="utf-8") as f:
-        f.write(f"<h1>Задание:{numb}</h1><h2>Номер:{task}</h2>" + a["text"])
+        f.write(f"<h1>Задание:{numb}</h1><h2>Номер:{task}</h2>" + a["text"] + f"<h2>Ответ:{ans}</h2>")
     input("Нажмите Enter, чтобы включить следующее")
