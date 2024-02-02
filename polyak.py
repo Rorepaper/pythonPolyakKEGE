@@ -2,6 +2,7 @@ from os import mkdir, listdir, mknod
 from requests import get
 import bs4
 
+
 with open("tasks.txt", "r") as f:
     tasks = f.readlines()
 
@@ -51,8 +52,9 @@ for task in tasks:
         mknod(f"{numb}/{task}pol.py")
 
     text = a[2].split("'")[1]
-    pic = text.split("src")[1].split("\"")[1]
-    text = text.replace(pic, "https://kpolyakov.spb.ru/cms/images/" + pic)
+    if len(text.split("src")) > 1:
+        pic = text.split("src")[1].split("\"")[1]
+        text = text.replace(pic, "https://kpolyakov.spb.ru/cms/images/" + pic + "\n")
     with open("README.md", "w", encoding="utf-8") as f:
         f.write(f"<h1>Задание:{numb}</h1><h2>Номер:{task}</h2>" + text + f"<h2>Ответ:\n{ans}</h2>")
     input("Нажмите Enter, чтобы включить следующее")

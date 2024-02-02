@@ -19,8 +19,8 @@ for task in tasks:
         for i in ff:
             ur, nam = i["url"], i["name"]
             get_response = get(f"https://kompege.ru{ur}", stream=True)
-            mknod(f"{numb}/{task}{nam.split('.')[-1]}")
-            with open(f"{numb}/{task}{nam.split('.')[-1]}", 'wb') as f:
+            mknod(f"{numb}/{task}.{nam.split('.')[-1].strip()}")
+            with open(f"{numb}/{task}.{nam.split('.')[-1].strip()}", 'wb') as f:
                 for chunk in get_response.iter_content(chunk_size=1024):
                     if chunk:
                         f.write(chunk)
