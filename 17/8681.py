@@ -1,4 +1,4 @@
-f = list(map(int, open("8681")))
+f = list(map(int, open("8681.txt.txt")))
 keys, res = [], []
 for i in f:
     if 1000 <= i <= 9999 and str(i)[-1] == "7":

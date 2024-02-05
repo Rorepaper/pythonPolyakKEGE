@@ -1,4 +1,4 @@
-f = open("7626txt")
+f = open("7626.txt")
 k = int(f.readline())
 n = int(f.readline())
 sp = []

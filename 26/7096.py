@@ -1,4 +1,4 @@
-f = open("7096txt")
+f = open("7096.txt")
 n = int(f.readline())
 sp = list(map(int, f))
 sp.sort(reverse=True)
