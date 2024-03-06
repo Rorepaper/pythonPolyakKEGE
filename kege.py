@@ -16,11 +16,14 @@ for task in tasks:
 
     if "files" in dict(a).keys():
         ff = a["files"]
-        for i in ff:
-            ur, nam = i["url"], i["name"]
+        for i in range(len(ff)):
+            ur, nam = ff[i]["url"], ff[i]["name"]
             get_response = get(f"https://kompege.ru{ur}", stream=True)
-            mknod(f"{numb}/{task}.{nam.split('.')[-1].strip()}")
-            with open(f"{numb}/{task}.{nam.split('.')[-1].strip()}", 'wb') as f:
+            src = f"{numb}/{task}.{nam.split('.')[-1].strip()}"
+            if i:
+                src = f"{numb}/{task}_{i}.{nam.split('.')[-1].strip()}"
+            mknod(src)
+            with open(src, 'wb') as f:
                 for chunk in get_response.iter_content(chunk_size=1024):
                     if chunk:
                         f.write(chunk)

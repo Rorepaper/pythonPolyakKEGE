@@ -27,24 +27,3 @@ print(kol)
 
 
 
-# for table in sp:
-#     fl = False
-#     sp1 = []
-#     st = table[0]
-#     end = table[1]
-#     if end <= 23 * 60 - 5:
-#         for key, val in a.items():
-#             if not val or val[-1] <= st:
-#                 val.append(end)
-#                 fl = True
-#                 kol += 1
-#                 break
-#             else:
-#                 sp.append([val[-1] + 5 - st, key])
-#         if not fl:
-#             sp1.sort()
-#             if sp[0][0] <= 10:
-#                 a[sp1[0][1]].append(end + sp1[0][0])
-#                 kol += 1
-#
-# print(kol)
