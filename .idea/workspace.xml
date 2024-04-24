@@ -5,46 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b580320c-53d7-44d8-ac14-c4e30cb1cb99" name="Changes" comment="рудз">
-      <change afterPath="$PROJECT_DIR$/12/7303pol.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13/6841pol.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14/6744pol.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14/7277pol.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15/4881pol.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16/6243pol.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16/6641pol.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16/yan.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/6517pol.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17/6517pol.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/18/6494pol.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22/6874pol.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/23/5465pol.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/5041pol.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/5041pol.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/5253pol.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/5253pol.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/6606pol.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/6606pol.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/6650pol.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/6650pol.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/7201pol.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/7201pol.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/7203pol.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24/7203pol.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/25/6654pol.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6/6536.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8/6670pol.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8/6916pol.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9/.~lock.6455pol.csv#" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9/5337pol.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9/5337pol.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9/5337pol.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9/6455pol.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9/6455pol.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9/6455pol.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12/6520pol.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13/6842pol.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17/6559pol.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17/6559pol.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/23/5078pol.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5/6913pol.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9/6572pol.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9/6572pol.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9/6572pol.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reshak.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/12.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/9/.~lock.6627pol.csv#" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tasks.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tasks.txt" afterDir="false" />
     </list>
@@ -89,8 +60,8 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.7277pol">
-    <configuration name="5041pol" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.5078pol">
+    <configuration name="5078pol" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonPolyakKEGE" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -98,11 +69,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/24" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/23" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/24/5041pol.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/23/5078pol.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -111,7 +82,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="6243pol" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="6520pol" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonPolyakKEGE" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -119,11 +90,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/16" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/16/6243pol.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12/6520pol.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -132,7 +103,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="6744pol" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="6559pol" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonPolyakKEGE" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -140,11 +111,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/14" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/17" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/14/6744pol.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/17/6559pol.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,7 +124,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="7277pol" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="6842pol" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonPolyakKEGE" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -161,11 +132,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/14" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/13" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/14/7277pol.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13/6842pol.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -219,11 +190,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.7277pol" />
+        <item itemvalue="Python.5078pol" />
         <item itemvalue="Python.polyak" />
-        <item itemvalue="Python.6243pol" />
-        <item itemvalue="Python.6744pol" />
-        <item itemvalue="Python.5041pol" />
+        <item itemvalue="Python.6559pol" />
+        <item itemvalue="Python.6842pol" />
+        <item itemvalue="Python.6520pol" />
       </list>
     </recent_temporary>
   </component>
