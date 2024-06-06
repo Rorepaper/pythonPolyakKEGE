@@ -5,9 +5,45 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b580320c-53d7-44d8-ac14-c4e30cb1cb99" name="Changes" comment="рудз">
+      <change afterPath="$PROJECT_DIR$/12/6855.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14/5471.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14/6637.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17/6831.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17/6892.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/23/1138.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24/6680pol.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24/6904pol.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25/6408.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26/4369.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9/6818.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9/6819.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tasks.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tasks.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12/6855&#10;.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13/10775&#10;.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13/10776&#10;.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13/10779&#10;.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13/10786&#10;.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13/11772&#10;.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13/7006&#10;.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13/7007&#10;.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/14/5471&#10;.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/14/6637&#10;.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/16/6888&#10;.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/17/6831&#10;.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/17/6892&#10;.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/23/1138&#10;.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/24/6680&#10;pol.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/24/6680&#10;pol.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/24/6904&#10;pol.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/24/6904&#10;pol.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/25/6408&#10;.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/26/4369&#10;.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/26/4369&#10;.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5/6999&#10;.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5/7000&#10;.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9/6818&#10;.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9/6819&#10;.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +60,19 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="b636f0bf-3f05-4be7-8d83-d15a6ea4a8e6" />
+        <option name="url" value="https://github.com/Rorepaper/pythonPolyakKEGE.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -35,21 +84,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/vidjakinra/PycharmProjects/Вариант 2&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.web.browsers&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Roman/Documents/PycharmProjects/pythonPolyakKEGE",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.web.browsers",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Python.14646">
     <configuration name="14646" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonPolyakKEGE" />
@@ -63,6 +112,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/24/14646.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -84,6 +134,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/23/5078pol.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -105,6 +156,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/23/5465pol.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -126,6 +178,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kege.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -169,6 +222,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/polyak.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -197,6 +251,7 @@
       <option name="presentableId" value="Default" />
       <updated>1700822579152</updated>
       <workItem from="1700836785938" duration="3378000" />
+      <workItem from="1717670272859" duration="1905000" />
     </task>
     <task id="LOCAL-00001" summary="first ver">
       <created>1700839418560</created>
